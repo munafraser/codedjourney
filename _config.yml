@@ -15,11 +15,11 @@ description: >
   I'm really fond of beautiful design, drawing etc.
 
 # Contact and social media links
-twitter_username: songrogero
-github_username: songroger
-facebook_username: song.roger.1
-instagram_username: songroger198
-linkedin_username: songroger
+twitter_username: itsmfraser
+github_username: munafraser
+facebook_username: itsfraser
+instagram_username: munashepics
+#linkedin_username: songroger
 
 exclude: ['node_modules', 'gulpfile.js', 'package.json']
 
