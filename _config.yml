@@ -8,11 +8,9 @@ permalink: /:title/
 #favicon: http://7xof48.com1.z0.glb.clouddn.com/favicon.png
 basecss: 
 # Theme specific configuration
-title: songroger
-#description: >
-  Hi there, My name is Luozhan.Song, usually I use "songroger" as my ID everywhere.
-  I was born and raised in Hunan China. 
-  I'm really fond of beautiful design, drawing etc.
+title: Coded Journey
+description: >
+  Hi, my name is Michael. I decided to start blogging, so here we go.
 
 # Contact and social media links
 twitter_username: itsmfraser
