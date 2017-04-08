@@ -3,9 +3,9 @@ domain: ""
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://songroger.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
-avatar: http://7xof48.com1.z0.glb.clouddn.com/avatar.jpg
-about: http://7xof48.com1.z0.glb.clouddn.com/about.jpg
-favicon: http://7xof48.com1.z0.glb.clouddn.com/favicon.png
+#avatar: http://7xof48.com1.z0.glb.clouddn.com/avatar.jpg
+#about: http://7xof48.com1.z0.glb.clouddn.com/about.jpg
+#favicon: http://7xof48.com1.z0.glb.clouddn.com/favicon.png
 basecss: 
 # Theme specific configuration
 title: songroger
