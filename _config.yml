@@ -5,14 +5,13 @@ url: "http://munafraser.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
 #avatar: http://7xof48.com1.z0.glb.clouddn.com/avatar.jpg
 #about: http://7xof48.com1.z0.glb.clouddn.com/about.jpg
-#favicon: http://7xof48.com1.z0.glb.clouddn.com/favicon.png
+favicon: http://7xof48.com1.z0.glb.clouddn.com/favicon.png
 basecss: 
 # Theme specific configuration
 title: Coded Journey
 description: >
-  Hi there, My name is Luozhan.Song, usually I use "songroger" as my ID everywhere.
-  I was born and raised in Hunan China. 
-  I'm really fond of beautiful design, drawing etc.
+  Hi, my name is Michael. I decided to start blogging, so here we go.
+
 
 # Contact and social media links
 twitter_username: itsmfraser
