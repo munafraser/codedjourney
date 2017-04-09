@@ -6,5 +6,8 @@ location: London, England
 description: First blog post to test the markdown.
 ---
 ---
-This is my first blog post to test the posting layout. Page should appear on main page and inside the archive. 
+This is my first blog post to test the posting layout. 
+
+Page should appear on main page and inside the archive. 
+It works. Content coming soon...
 
